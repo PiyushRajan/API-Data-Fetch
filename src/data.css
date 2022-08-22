@@ -1,0 +1,14 @@
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  background-color: rgb(241, 235, 227);
+}
+
+.btn {
+  background-color: rgb(230, 135, 9);
+  border-style: hidden;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 10px;
+}
